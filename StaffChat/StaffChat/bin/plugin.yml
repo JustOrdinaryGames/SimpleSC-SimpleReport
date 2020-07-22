@@ -1,0 +1,11 @@
+name: StaffChat
+version: 1.0
+description: StaffChat plugin inspired by MinemenClub and InvadedLands.
+main: StaffChat.Main
+commands:
+  sc:
+    description: talk to staff owo
+  staffchat:
+    description: staff go talk uwu
+  report:
+    description: snitch on rule breakers
